@@ -32,4 +32,4 @@ while active:
             print("Dear " + invitee.title() + ", you are invited to the wedding.")
         print("...........Expecting you all at the venue.....")
         print("........Cheers.....")
-        quit()
+       
